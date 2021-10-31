@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+#PlanMyTrip Update
+In this challenge, I updated the previous function of the PlanMyTrip app too test better with the beta testers. Specifically, the focus was adding a "weather description" to the city/hotel information to get a live view of what the current weather is in said city. The input fields were carried over to allow testers to input their desired vacation temperature. New to this version of PlanMyTrip, I added a directions function to gmaps, allowing testers to select cities from their temperature preference, and plot a "road trip" type of map that provides directions between the cities they chose, making the code more suitable for creating a vacation itinerary.
